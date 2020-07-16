@@ -251,7 +251,7 @@ func TestService_Card2Card(t *testing.T) {
 				to:     "0001",
 				amount: 1000_00,
 			},
-			wantTotal: 1030_000,
+			wantTotal: 1030_00,
 			wantOk:    true,
 		},
 	}
